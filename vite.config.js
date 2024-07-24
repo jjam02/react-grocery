@@ -8,4 +8,5 @@ export default defineConfig({
     host: true, // or '0.0.0.0'
     port: 5173, // Optional: specify a port
   },
+  base: "/react-grocery/",
 });
