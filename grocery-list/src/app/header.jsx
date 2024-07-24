@@ -8,6 +8,7 @@ const Header = (props) => {
         <h1>{props.title}</h1>
         <span className="total-items">Items: {props.itemTotal}</span>
       </header>
+    )
     
   };
 
